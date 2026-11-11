@@ -69,7 +69,6 @@ FocusLens/
 ## 🚀 Installation
 
 1. Clone this repository
- git clone https://github.com/adeebakhanam0612-ai/focuslens-chrome-extension.git
  2. Open Google Chrome and go to
     chrome://extensions
     3. Enable **Developer Mode** (top right toggle)
