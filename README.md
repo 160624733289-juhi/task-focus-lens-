@@ -107,12 +107,6 @@ Twitter, Snapchat and more
 Google, Wikipedia, Reddit, News sites and everything else
 
 ---
-
-## 👩‍💻 Developer
-
-**Adeeba Khanam**
-GitHub: [@adeebakhanam0612-ai](https://github.com/adeebakhanam0612-ai)
-
 ---
 
 ## 📌 Project Context
